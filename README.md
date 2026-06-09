@@ -156,4 +156,4 @@ npm run dev
 
 ## Author
 
-Karan Jangra
+Aastha Sehgal
