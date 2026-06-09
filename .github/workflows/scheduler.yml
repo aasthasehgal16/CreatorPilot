@@ -1,4 +1,4 @@
-name: ReelButler Automation
+name: CreatorPilot Automation
 
 on:
 
@@ -21,16 +21,16 @@ jobs:
       - name: Trigger Discovery
         run: |
 
-          curl https://reelbutler-backend.onrender.com/run-discovery
+          curl https://creatorpilot-backend.onrender.com/run-discovery
 
 
       - name: Trigger Tracker
         run: |
 
-          curl https://reelbutler-backend.onrender.com/run-tracker
+          curl https://creatorpilot-backend.onrender.com/run-tracker
 
 
       - name: Trigger Cleanup
         run: |
 
-          curl https://reelbutler-backend.onrender.com/run-cleanup
+          curl https://creatorpilot-backend.onrender.com/run-cleanup

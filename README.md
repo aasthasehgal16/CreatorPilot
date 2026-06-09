@@ -1,6 +1,6 @@
-# ReelButler
+# CreatorPilot
 
-ReelButler is an AI-powered Creator Intelligence Platform that automates viral content research, trend analysis, and short-form content generation for influencers using real-time YouTube trend data, Retrieval-Augmented Generation (RAG), and multi-agent AI workflows.
+CreatorPilot is an AI-powered Creator Intelligence Platform that automates viral content research, trend analysis, and short-form content generation for influencers using real-time YouTube trend data, Retrieval-Augmented Generation (RAG), and multi-agent AI workflows.
 
 ---
 
@@ -82,9 +82,9 @@ React Dashboard + Creator Studio
 ### Clone Repository
 
 ```bash
-git clone https://github.com/krnjangraa/ReelButler
+git clone https://github.com/krnjangraa/CreatorPilot
 
-cd ReelButler
+cd CreatorPilot
 ```
 
 ---
