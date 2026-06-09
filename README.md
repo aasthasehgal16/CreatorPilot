@@ -82,7 +82,7 @@ React Dashboard + Creator Studio
 ### Clone Repository
 
 ```bash
-git clone https://github.com/krnjangraa/CreatorPilot
+git clone https://github.com/aasthasehgal16/CreatorPilot
 
 cd CreatorPilot
 ```
