@@ -8,6 +8,16 @@ import os
 from routes.search import router as search_router
 from routes.trending import router as trending_router
 from routes.agents import router as agents_router
+from sqlalchemy import Column, Integer, String, Text
+from database import Base
+
+class Inquiry(Base):
+    __tablename__ = "inquiries"
+
+    id = Column(Integer, primary_key=True, index=True)
+    question = Column(Text, nullable=False)
+    answer = Column(Text, nullable=False)
+    
 # from scheduler import start_scheduler
 from fastapi.middleware.cors import (
     CORSMiddleware

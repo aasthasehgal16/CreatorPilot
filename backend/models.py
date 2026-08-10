@@ -1,7 +1,9 @@
 from sqlalchemy import Column, Integer, String, BigInteger
-from database import Base
 from sqlalchemy import DateTime
 from sqlalchemy import Text
+from sqlalchemy.orm import declarative_base
+
+Base = declarative_base()
 
 class YouTubeVideo(Base):
 

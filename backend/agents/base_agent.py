@@ -22,6 +22,8 @@ class BaseAgent:
             )
         )
 
+    print("API KEY =", os.getenv("GEMINI_API_KEY"))
+
 
     # -------------------------
     # RETRIEVE RELEVANT TRENDS
