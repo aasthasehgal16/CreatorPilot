@@ -44,7 +44,7 @@ The project is actively evolving, with a focus on building a clean, scalable, an
 - Git & GitHub
 - GitHub Actions
 - Environment-based configuration
-- Deployment-oriented workflow
+- Deployment-oriented 
 
 ---
 
