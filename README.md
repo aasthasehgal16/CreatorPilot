@@ -1,4 +1,4 @@
-# CreatorPilot
+# **CreatorPilot**
 
 CreatorPilot is an AI-powered Creator Intelligence Platform that automates viral content research, trend analysis, and short-form content generation for influencers using real-time YouTube trend data, Retrieval-Augmented Generation (RAG), and multi-agent AI workflows.
 
@@ -156,6 +156,6 @@ npm run dev
 
 ## Author
 
-Aastha Sehgal 
+**Aastha Sehgal**
 📧 sehgalaastha2@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE) &nbsp;|&nbsp; [GitHub](https://github.com/aasthasehgal16)
 
