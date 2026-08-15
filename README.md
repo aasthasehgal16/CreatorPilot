@@ -156,4 +156,6 @@ npm run dev
 
 ## Author
 
-Karan Jangra
+Aastha Sehgal 
+📧 sehgalaastha2@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE) &nbsp;|&nbsp; [GitHub](https://github.com/aasthasehgal16)
+
